@@ -1,73 +1,53 @@
 {
-  "frontend": [
-    {
-      "id": 0,
-      "name": "JavaScript",
-      "img": "https://vitemprende.es/uploads/2016/02/logo_JavaScript.png",
-      "level": 3
+  "projects": [
+    {"id":0,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
     },
-    {
-      "id": 1,
-      "name": "React",
-      "img": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
-      "level": 3
+    {"id":1,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
     },
-    {
-      "id": 2,
-      "name": "CSS3",
-      "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png",
-      "level": 3
+    {"id":2,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
     },
-    {
-      "id": 3,
-      "name": "Sass",
-      "img": "https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png",
-      "level": 2
+    {"id":3,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
+    },
+    {"id":4,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
+    },
+    {"id":5,
+      "name": "test",
+      "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
+      "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
+      "stack": "React, Node ,MongoDB,Sass",
+      "git": "git://github.com/",
+      "demo": "ddde.com"
     }
-  ],
-  "backend": [
-    {
-      "id": 0,
-      "name": "Express js",
-      "img": "https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png",
-      "level": 2
-    },
-    {
-      "id": 2,
-      "name": "Nest js",
-      "img": "https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png",
-      "level": 2
-    },
-    {
-      "id": 3,
-      "name": "Php",
-      "img": "http://pngimg.com/uploads/php/php_PNG7.png",
-      "level": 3
-    },
-    {
-      "id": 4,
-      "name": "Phyton",
-      "img": "https://sitiobigdata.com/wp-content/uploads/2018/10/importar-datos-en-python-945x945.png",
-      "level": 2
-    },
-    {
-      "id": 5,
-      "name": "Mongo Db",
-      "img": "https://img.icons8.com/color/452/mongodb.png",
-      "level": 2
-    }
-  ],
-  "others": [
-    {
-        "id": 1,
-        "name": "C#",
-        "img": "https://img2.freepng.es/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg",
-        "level": 2
-      },  {
-        "id": 2,
-        "name": "Figma",
-        "img": "https://img2.freepng.es/20180614/tjk/kisspng-figma-designer-computer-icons-material-design-5b2244f198c236.1471924315289725296257.jpg",
-        "level": 2
-      }
   ]
 }
+
