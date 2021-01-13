@@ -1,7 +1,7 @@
 {
   "projects": [
     {"id":0,
-      "name": "test",
+      "name": "PokeDex React Hook",
       "description": "Microsoft Office es una suite ofimática que abarca el mercado completo en Internet e interrelaciona aplicaciones de escritorio, servidores y servicios para los sistemas operativos Microsoft Windows, Mac OS X, iOS y Android. La última versión de la suite ofimática es el Microsoft Office 2019.",
       "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1604050174/Challenges/ibtmng4molp6wioogur7.jpg",
       "stack": "React, Node ,MongoDB,Sass",
