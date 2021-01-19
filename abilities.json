@@ -2,7 +2,8 @@
   "projects": [
     {"id":0,
       "name": "Portfolio React",
-      "img": "https://instagram.fmex19-1.fna.fbcdn.net/v/t51.2885-15/e35/140378843_165239455035373_1707470399355239502_n.jpg?_nc_ht=instagram.fmex19-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=S54tQnkMRHMAX968F_v&tp=1&oh=7b9a8a6cd7a66c08bd8392706adc86f5&oe=602EE89B", "stack": "React, Node ,MongoDB,Sass",
+      "img": "https://scontent.fmex19-1.fna.fbcdn.net/v/t1.0-0/p180x540/140391674_130580482241689_6111463547312722807_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGdrcFRV-U1mQ-e_cxcW3eWvbVhImJhLvK9tWEiYmEu8pKNZNjrglV68p41ZYMJbiGKj2YfxFTFuYy6dDAOA9Zi&_nc_ohc=c_j59TIPougAX_tkgHy&_nc_ht=scontent.fmex19-1.fna&tp=6&oh=c7a6f4fc122a486d336688c6f868c37c&oe=602D23AE", 
+     "stack": "React, Node ,MongoDB,Sass",
       "git": "https://github.com/Pamsho09/Portfolio",
       "demo": "https://pamsho09.github.io/Portfolio/"
     }
